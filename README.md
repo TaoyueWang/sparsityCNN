@@ -8,4 +8,4 @@ TU Delft CS4240 Deep Learning Reproducibility Project: Sparsity Invariant CNNs
 
 * The "mnist" file: _Mnist_Conv.ipynb_ and _Mnist_SparConv_ contain complete codes to implement the Sparse ConvNet and normal ConvNet for MNIST dataset. The MNIST dataset can be unzipped in data.zip.
 
-# debug
+
