@@ -7,3 +7,5 @@ TU Delft CS4240 Deep Learning Reproducibility Project: Sparsity Invariant CNNs
 * The "Caltech-101" file:_ Nonsparse.ipynb_ and _Sparse.ipynb_ contain complete codes to implement the Sparse ConvNet and normal ConvNet for Caltech-101 dataset. _caltechdataproc.ipynb_ contains the python code to prepossess the Caltech-101 dataset. The Caltech-101 dataset is an open dataset and can be downloaded freely on the website: https://data.caltech.edu/records/mzrjq-6wc02
 
 * The "mnist" file: _Mnist_Conv.ipynb_ and _Mnist_SparConv_ contain complete codes to implement the Sparse ConvNet and normal ConvNet for MNIST dataset. The MNIST dataset can be unzipped in data.zip.
+
+# debug
